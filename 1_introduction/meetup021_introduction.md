@@ -136,7 +136,7 @@ http://gigazine.net/news/20170112-gta-v-universe-openai/
 
 ---
 
-# PyMC3
+# PyMC3 (2017/01/09)
 
 ![center](./figure/pymc3.png)
 
@@ -157,6 +157,16 @@ https://github.com/pymc-devs/pymc3
 <center>
 
 https://github.com/blei-lab/edward
+
+---
+
+# PyTorch (2017/01/19)
+
+![center](./figure/pytorch.png)
+
+<center>
+
+http://pytorch.org/
 
 ---
 
