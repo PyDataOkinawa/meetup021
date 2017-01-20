@@ -170,6 +170,38 @@ http://pytorch.org/
 
 ---
 
+# Matplotlib 2.0 (2017/01/20)
+
+![center](./figure/matplotlib2.png)
+
+<center>
+
+http://matplotlib.org/
+
+---
+
+# Scikit-learn Cheat Sheet (2017/01/12)
+
+![center](./figure/sklearn.png)
+
+<center>
+
+http://blog.yhat.com/posts/scikit-learn-cheat-sheet.html
+
+---
+
+# OKINAWA GPU Community vol. 1 
+
+## 2017/02/04 (SAT) - 2017/02/05 (SUN)
+
+![center](./figure/nvidia.png)
+
+<center>
+
+https://docs.google.com/document/d/1ok6v3b-eHT49za1rm9VkaP5UDRWdiEP5jzlYbtNeUyI/edit
+
+---
+
 # PyData.Okinawaの共催
 
 - [Startup Cafe Koza](http://startup-cafe.okinawa/)
